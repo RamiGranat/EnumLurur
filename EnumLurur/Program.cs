@@ -47,7 +47,7 @@ namespace EnumLurum
                             Console.WriteLine("Something went wrong, please try again.");
                             break;
                     }
-                    System.Threading.Thread.Sleep(3000);
+                    System.Threading.Thread.Sleep(4000);
                 }
                 //Läs in ett tal
                 //Omvandla talet till en enum
